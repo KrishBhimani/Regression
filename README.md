@@ -44,5 +44,5 @@ Each notebook includes detailed results and visualizations showcasing the perfor
 
 ## Contact
 
-For any questions or suggestions, feel free to open an issue or contact me at [your.erkrishbhimani@gmail.com](mailto:erkrishbhimani@gmail.com).
+For any questions or suggestions, feel free to open an issue or contact me at [erkrishbhimani@gmail.com](mailto:erkrishbhimani@gmail.com).
 
