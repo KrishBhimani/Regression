@@ -18,8 +18,7 @@ Open any of the notebooks in the repository to explore the implementation and re
 - **Ridge Regression:** [notebook link](notebooks/ridge_regression.ipynb)
 - **Lasso Regression:** [notebook link](notebooks/lasso_regression.ipynb)
 - **Elastic Net Regression:** [notebook link](notebooks/elastic_net_regression.ipynb)
-- **Logistic Regression:** [notebook link](notebooks/logistic_regression.ipynb)
-- **Cross-Validation and Hyperparameter Tuning:** [notebook link](notebooks/cross_validation_and_hyperparameter_tuning.ipynb)
+- **Logistic Regression:** [notebook link](LogisticRegression/Logisticregression.ipynb)
 
 ## Models Implemented
 
