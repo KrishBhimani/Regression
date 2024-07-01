@@ -17,7 +17,7 @@ Open any of the notebooks in the repository to explore the implementation and re
 - **Polynomial Regression:** [notebook link](notebooks/polynomial_regression.ipynb)
 - **Ridge Regression:** [notebook link](notebooks/ridge_regression.ipynb)
 - **Lasso Regression:** [notebook link](notebooks/lasso_regression.ipynb)
-- **Elastic Net Regression:** [notebook link](notebooks/elastic_net_regression.ipynb)
+- **Elastic Net Regression:** [notebook link]([notebooks/elastic_net_regression.ipynb](https://github.com/KrishBhimani/Regression/blob/eec1f6c2698dcb29ca33c6970a8fb0035e0a21c0/Ridge%2C%20Lasso%20and%20ElasticNet.ipynb))
 - **Logistic Regression:** [notebook link](Logistic Regression/Logistic regression.ipynb)
 
 ## Models Implemented
